@@ -29,3 +29,7 @@ Select DanceDanceRotation module
 Select the Gear icon in the top right and select "Open songs"
 Place all .json files in this folder.
 The list should automatically populate with them if they're valid.
+
+### Release History
+
+v0.2.0 - Alpha Release 2
